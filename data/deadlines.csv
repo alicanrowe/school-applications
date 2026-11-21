@@ -1,0 +1,2 @@
+program,item,due_date,due_time,tz,hard,confidence,source
+Example University MFA,application + portfolio + 3 letters,2027-01-15,23:59,America/New_York,yes,inferred,https://example.edu/apply
